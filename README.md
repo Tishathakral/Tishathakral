@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Narottamchy/Narottamchy/blob/main/%40Narottamchy1.gif)
 <h1 align="center">Hi 👋, I'm Tisha Thakral</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
