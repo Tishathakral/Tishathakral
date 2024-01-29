@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tisha Thakral 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narottamchy&label=Profile%20views&color=0e75b6&style=flat" alt="narottamchy" />
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **thakraltisha@gmail.com**
 
-- ⚡ Fun fact **Running a smartphone required more code than sending a man to the Moon.**
+- ⚡ Fun fact **Running a smartphone requires more code than sending a man to the Moon.**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
