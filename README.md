@@ -8,11 +8,9 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/10bxTLrpJNS0PC/giphy.gif?cid=ecf05e47zvuh17zpigbn3vsb5a56dcszha9yjbcgo5x4hjkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working in [Thinkroman Ventures as an Intern](https://thinkroman.com/)
+- 🔭 I’m currently studying **BTECH** in **Artificial Intelligence and Machine Learning**
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
-
-- 👨‍💻 All of my projects are available at [https://tishathakral.vercel.app/](https://tishathakral.vercel.app/)
 
 - 💬 Ask me about **Books and Music**
 
